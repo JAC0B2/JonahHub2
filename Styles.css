@@ -1,0 +1,72 @@
+*{ 
+font-family: 'Ubuntu Condensed', sans-serif;
+color:white;
+background-color:#000;
+font-size:30px;
+}
+.s {
+background-color:#090909;
+}
+.Jonah {
+background-color:transparent; 
+color:white; 
+font-size:75px;
+margin-bottom:10px;
+}
+.Jonah2 {
+background-color:transparent; 
+color:white; 
+font-size:37.5px;
+}
+.hub {
+color:black; 
+background-color:orange;
+font-size:75px;
+border:18px solid orange;
+border-radius:20px;
+margin-left:5px;
+margin-bottom:10px;
+}
+.hub2 {
+color:black; 
+background-color:orange;
+font-size:37.5px;
+border:2px solid orange;
+border-radius:10px;
+margin-left:5px;
+}
+table, td, tr, th{
+border: 2px lime solid;
+border-collapse:collapse;
+}
+. orange{
+border: 3px solid orange;
+border-radius:30px;
+}
+. fancy{
+text-align:center;
+color:red;
+/*border:5px solid red;*/
+font-family: 'Turret Road', cursive;
+}
+div.sticky {
+  position: sticky; /* Safari */
+  position: sticky;
+  top: 0;
+}
+table, tr, th, td{
+background-color:orange;
+border:none;
+color:black;
+} 
+a:link {
+color: red;
+background-color: transparent;
+text-decoration: none;
+
+}
+a:visited {
+color: blue;
+background-color: transparent;
+border: transparent;
+}
